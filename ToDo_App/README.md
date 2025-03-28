@@ -65,6 +65,22 @@ Presplash Screen            |  User Interface
 :-------------------------:|:-------------------------:
 <img src="images/img_1.png">   |  <img src="images/img_2.png">
 
+Adding a todo            |  UI after todo gets added
+:-------------------------:|:-------------------------:
+<img src="images/img_3.png">   |  <img src="images/img_4.png"> 
+Click the add button to add a todo and then enter the todo title | Todo is added to the main screen 
+
+Add details inside a todo        |  ToDo detils UI
+:-------------------------:|:-------------------------:
+<img src="images/img_5.png">   |  <img src="images/img_6.png"> 
+Click the ToDo in which you want to add the details, here I'm adding details to the Task 1 | Enter the details you want to add and go back to the main page the data will stored automatically
+
+
+Delete a ToDo           |  UI after deleting a ToDo
+:-------------------------:|:-------------------------:
+<img src="images/img_7.png">   |  <img src="images/img_8.png"> 
+Simply click the delete button next to the ToDo  | When a ToDo is deleted all the other ToDo's are rearranged so there is not empty space at the deleted todo position 
+
 <hr>
 
 ## License
