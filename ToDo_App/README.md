@@ -70,7 +70,7 @@ Adding a todo            |  UI after todo gets added
 <img src="images/img_3.png">   |  <img src="images/img_4.png"> 
 Click the add button to add a todo and then enter the todo title | Todo is added to the main screen 
 
-Add details inside a todo        |  ToDo detils UI
+Add details inside a todo        |  ToDo details UI
 :-------------------------:|:-------------------------:
 <img src="images/img_5.png">   |  <img src="images/img_6.png"> 
 Click the ToDo in which you want to add the details, here I'm adding details to the Task 1 | Enter the details you want to add and go back to the main page the data will stored automatically
