@@ -63,7 +63,7 @@ To convert the Kivy app into an Android APK, follow these steps:
 
 Presplash Screen            |  User Interface
 :-------------------------:|:-------------------------:
-<img src="img_1.png">   |  <img src="img_2.png">
+<img src="images/img_1.png">   |  <img src="images/img_2.png">
 
 <hr>
 
